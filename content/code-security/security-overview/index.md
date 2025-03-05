@@ -10,7 +10,8 @@ versions:
   ghec: '*'
 topics:
   - Security overview
-  - Advanced Security
+  - Code Security
+  - Secret Protection
 children:
   - /about-security-overview
   - /viewing-security-insights
@@ -18,6 +19,8 @@ children:
   - /assessing-code-security-risk
   - /filtering-alerts-in-security-overview
   - /enabling-security-features-for-multiple-repositories
-  - /exporting-data-from-the-risk-and-coverage-pages
+  - /exporting-data-from-security-overview
   - /viewing-metrics-for-secret-scanning-push-protection
+  - /viewing-metrics-for-pull-request-alerts
+  - /reviewing-requests-to-bypass-push-protection
 ---
